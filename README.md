@@ -18,9 +18,8 @@ Durante os exercícios, são abordados os seguintes tópicos:
 - Criação de métodos e funções  
 - Organização em classes (POO)  
 - Validação de dados  
-- Lógica de programação  
+- Lógica de programação
 
----
 
 ## ▶️ Como Executar os Projetos
 
@@ -35,34 +34,37 @@ Durante os exercícios, são abordados os seguintes tópicos:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/Estudando-Java.git
- ```
+   ```
 
 2. Navegue até a pasta de um projeto:
    ```bash
    cd Estudando-Java/nome-do-projeto
- ```
+   ```
 
 3. Compile e execute o programa:
    ```bash
     javac Main.java
     java Main
- ```
+    ```
 
 ## 📌 Objetivo do Repositório
 Este repositório tem fins educacionais. A ideia é praticar os fundamentos de Java com pequenos projetos focados em lógica de programação e POO. Ele serve como base para acompanhar minha evolução como programador e também ajudar outros estudantes que estejam começando.
 
-🤝 Contribuindo
+
+## 🤝 Contribuindo
 Sinta-se à vontade para:
 * Abrir issues com dúvidas ou sugestões
 * Criar pull requests com correções ou melhorias
 * Compartilhar este repositório com outros iniciantes
 
-📄 Licença
+
+## 📄 Licença
 Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais informações.
 
-📚 Referências
+
+## 📚 Referências
 * Documentação oficial do Java
 * Cursos e conteúdos educacionais da comunidade
 
---
-Feito com dedicação por um estudante curioso e apaixonado por tecnologia. 💻🚀
+---
+💻🚀 Feito com dedicação por um estudante curioso e apaixonado por tecnologia. 
