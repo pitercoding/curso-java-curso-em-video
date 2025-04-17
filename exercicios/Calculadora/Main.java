@@ -2,16 +2,16 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner (System.in);
-        calculadora calc = new calculadora();
+        Scanner scanner = new Scanner(System.in);
+        Calculadora calc = new Calculadora();
 
-        System.out.println("Digite o primeiro número: ");
+        System.out.print("Digite o primeiro número: ");
         double num1 = scanner.nextDouble();
 
-        System.out.println("Digite a operação (+, -, *, /): ");
+        System.out.print("Digite a operação (+, -, *, /): ");
         String op = scanner.next();
 
-        System.out.println("Digite o segundo número: ");
+        System.out.print("Digite o segundo número: ");
         double num2 = scanner.nextDouble();
 
         double resultado = 0;
@@ -20,25 +20,22 @@ public class Main {
             case "+":
                 resultado = calc.somar(num1, num2);
                 break;
-            
             case "-":
                 resultado = calc.subtrair(num1, num2);
                 break;
-
             case "*":
                 resultado = calc.multiplicar(num1, num2);
                 break;
-
             case "/":
                 resultado = calc.dividir(num1, num2);
                 break;
-
-            default: 
+            default:
                 System.out.println("Operação inválida.");
-                scanner.close();        
+                return;
         }
 
-        System.out.println("Resultado " + resultado);
+        System.out.println("Resultado: " + resultado);
         scanner.close();
     }
 }
+

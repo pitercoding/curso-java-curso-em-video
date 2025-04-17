@@ -1,18 +1,20 @@
+package exercicios.VerificadorPrimo;
+
 import java.util.Scanner;
 
 public class VerificadorPrimo {
-    public static void main(String[] args) { 
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Digite um número inteiro: ");
+        System.out.print("Digite um número inteiro: ");
         int numero = sc.nextInt();
 
         boolean ehPrimo = true;
 
-        if (numero <=1) {
+        if (numero <= 1) {
             ehPrimo = false;
         } else {
-            for(int i = 2; i < numero; i++){
+            for (int i = 2; i < numero; i++) {
                 if (numero % i == 0) {
                     ehPrimo = false;
                     break;
