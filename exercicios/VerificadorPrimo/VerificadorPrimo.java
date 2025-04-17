@@ -1,5 +1,3 @@
-package exercicios.VerificadorPrimo;
-
 import java.util.Scanner;
 
 public class VerificadorPrimo {
