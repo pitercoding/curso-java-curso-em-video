@@ -1,70 +1,85 @@
 # ☕ Repositório de Estudos em Java
 
-Este repositório reúne **projetos e exercícios práticos em Java**, desenvolvidos como parte da minha jornada de aprendizado em **Programação Orientada a Objetos (POO)**. Cada projeto explora conceitos fundamentais da linguagem Java, com foco no desenvolvimento progressivo das habilidades em codificação, lógica e boas práticas.
+Este repositório reúne projetos, exercícios práticos e anotações de estudo desenvolvidos como parte da minha jornada de aprendizado na linguagem Java. Os conteúdos abordam desde a introdução à linguagem até conceitos fundamentais de Programação Orientada a Objetos (POO), além de temas visuais como Swing e JavaFX.
 
-Desenvolvido e mantido por um estudante de **Ciência da Computação**, utilizando o **Visual Studio Code (VS Code)** como ambiente principal de desenvolvimento.
+Desenvolvido por um estudante de Ciências da Computação em constante evolução, utilizando Visual Studio Code como ambiente principal de desenvolvimento.
 
----
+## 📚 Conteúdo Estudado
+
+Abaixo está a lista organizada dos módulos estudados no curso **Java para Iniciantes**, com tópicos complementares em POO e lógica de programação:
+
+### 🚀 Alguns tópicos abordados
+1. **História do Java**
+2. **Exercícios de Java**
+3. **Como Funciona o Java**
+4. **Instalando o JDK no seu Computador**
+5. **Primeiro Programa em Java**
+6. **Introdução ao Swing e JavaFX**
+7. **Tipos Primitivos e Manipulação de Dados**
+8. **Operadores Aritméticos e Classe Math**
+9. **Operadores Lógicos e Relacionais**
+10. **Estruturas Condicionais (Parte 1)**
+11. **Estruturas Condicionais (Parte 2)**
+12. **Estruturas de Repetição (Parte 1)**
+13. **Estruturas de Repetição (Parte 2)**
+14. **Estruturas de Repetição (Parte 3)**
+15. **Vetores**
+16. **Métodos**
 
 ## 🧠 Conceitos Praticados
 
-Durante os exercícios, são abordados os seguintes tópicos:
+Durante os estudos, os seguintes conceitos foram aplicados e exercitados:
 
-- Sintaxe básica da linguagem Java  
-- Tipos primitivos e variáveis  
-- Entrada e saída de dados com `Scanner`  
-- Estruturas de controle: `if`, `else`, `switch`  
-- Estruturas de repetição: `for`, `while`, `do-while`  
-- Criação de métodos e funções  
-- Organização em classes (POO)  
-- Validação de dados  
-- Lógica de programação
-
+- Sintaxe básica do Java
+- Tipos primitivos e variáveis
+- Entrada e saída de dados com `Scanner`
+- Operadores matemáticos, lógicos e relacionais
+- Estruturas de controle: `if`, `else`, `switch`
+- Estruturas de repetição: `for`, `while`, `do-while`
+- Vetores e manipulação de arrays
+- Criação e uso de métodos
+- **Programação Orientada a Objetos (POO)**
+  - Classes e objetos
+  - Encapsulamento
+  - Métodos construtores
+  - Herança (introdução)
+- Introdução à interface gráfica com **Swing** e **JavaFX**
 
 ## ▶️ Como Executar os Projetos
 
-### Requisitos:
+### 🧰 Requisitos:
+- Java JDK instalado
+- Visual Studio Code com extensões de Java (ex: Extension Pack for Java) ou Apache Net Beans
+- Terminal integrado ou externo
 
-- [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) instalado  
-- [VS Code](https://code.visualstudio.com/) com extensões de Java (ex: **Extension Pack for Java**)  
-- Terminal integrado (ou externo)  
+### 💻 Instruções:
+```bash
+git clone https://github.com/seu-usuario/Estudando-Java.git
+cd Estudando-Java/nome-do-projeto
+javac Main.java
+java Main
+```
 
-### Instruções:
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Estudando-Java.git
-   ```
-
-2. Navegue até a pasta de um projeto:
-   ```bash
-   cd Estudando-Java/nome-do-projeto
-   ```
-
-3. Compile e execute o programa:
-   ```bash
-    javac Main.java
-    java Main
-    ```
-
-## 📌 Objetivo do Repositório
-Este repositório tem fins educacionais. A ideia é praticar os fundamentos de Java com pequenos projetos focados em lógica de programação e POO. Ele serve como base para acompanhar minha evolução como programador e também ajudar outros estudantes que estejam começando.
-
+## Objetivo do Repositório
+Este repositório tem fins educacionais. Foi criado para:
+* Praticar os fundamentos da linguagem Java
+* Consolidar o aprendizado de POO e lógica
+* Servir como base de consulta futura
+* Compartilhar conhecimento com outros iniciantes
 
 ## 🤝 Contribuindo
 Sinta-se à vontade para:
 * Abrir issues com dúvidas ou sugestões
 * Criar pull requests com correções ou melhorias
-* Compartilhar este repositório com outros iniciantes
-
+* Compartilhar este repositório com colegas que também estão aprendendo Java
 
 ## 📄 Licença
 Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais informações.
 
+📚 Referências
+1. [Documentação oficial do Java](https://docs.oracle.com/en/java/)
+2. Cursos gratuitos e pagos (YouTube, plataformas de ensino)
+3. Comunidade de desenvolvedores iniciantes
 
-## 📚 Referências
-* Documentação oficial do Java
-* Cursos e conteúdos educacionais da comunidade
-
----
-💻🚀 Feito com dedicação por um estudante curioso e apaixonado por tecnologia. 
+## 👨‍💻 Sobre o Desenvolvedor
+Olá! Sou estudante de Ciências da Computação em transição de carreira, apaixonado por tecnologia e aprendizado constante. Este repositório reflete minha dedicação em aprender Java e construir uma base sólida para projetos maiores no futuro.
