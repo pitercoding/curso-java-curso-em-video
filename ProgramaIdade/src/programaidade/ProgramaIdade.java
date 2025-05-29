@@ -21,7 +21,7 @@ public class ProgramaIdade {
         System.out.print("Digite a data de nascimento: ");
         int nasc = teclado.nextInt();
         int i = 2025 - nasc;
-        System.out.println("Sua idade é " + i + "anos.");
+        System.out.println("Sua idade é " + i + " anos.");
         if (i >= 18){
             System.out.println("Maior de idade.");
         } else {
