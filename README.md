@@ -2,11 +2,11 @@
 
 Este repositório reúne projetos, exercícios práticos e anotações de estudo desenvolvidos como parte da minha jornada de aprendizado na linguagem Java. Os conteúdos abordam desde a introdução à linguagem até conceitos fundamentais de Programação Orientada a Objetos (POO), além de temas visuais como Swing e JavaFX.
 
-Desenvolvido por um estudante de Ciências da Computação em constante evolução, utilizando Visual Studio Code como ambiente principal de desenvolvimento.
+Desenvolvido por um estudante de Ciências da Computação em constante evolução, utilizando Apache NetBeans como ambiente principal de desenvolvimento.
 
 ## 📚 Conteúdo Estudado
 
-Abaixo está a lista organizada dos módulos estudados no curso **Java para Iniciantes**, com tópicos complementares em POO e lógica de programação:
+Abaixo está a lista organizada dos módulos estudados de **Java para Iniciantes**, com tópicos complementares em POO e lógica de programação:
 
 ### 🚀 Alguns tópicos abordados
 1. **História do Java**
@@ -49,7 +49,7 @@ Durante os estudos, os seguintes conceitos foram aplicados e exercitados:
 
 ### 🧰 Requisitos:
 - Java JDK instalado
-- Visual Studio Code com extensões de Java (ex: Extension Pack for Java) ou Apache Net Beans
+- Apache Net Beans ou Visual Studio Code com extensões de Java (ex: Extension Pack for Java)
 - Terminal integrado ou externo
 
 ### 💻 Instruções:
@@ -61,7 +61,7 @@ java Main
 ```
 
 ## Objetivo do Repositório
-Este repositório tem fins educacionais. Foi criado para:
+Este repositório tem fins educacionais e foi criado para:
 * Praticar os fundamentos da linguagem Java
 * Consolidar o aprendizado de POO e lógica
 * Servir como base de consulta futura
