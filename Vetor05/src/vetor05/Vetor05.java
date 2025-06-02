@@ -30,6 +30,7 @@ public class Vetor05 {
         for (int valor: vetor){
             System.out.print(valor + " ");
         }
+        System.out.println("\n");
     }
     
 }
