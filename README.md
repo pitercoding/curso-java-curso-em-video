@@ -1,8 +1,6 @@
 # ☕ Repositório de Estudos em Java
 
-Este repositório reúne projetos, exercícios práticos e anotações de estudo desenvolvidos como parte da minha jornada de aprendizado na linguagem Java. Os conteúdos abordam desde a introdução à linguagem até conceitos fundamentais de Programação Orientada a Objetos (POO), além de temas visuais como Swing e JavaFX.
-
-Desenvolvido por um estudante de Ciências da Computação em constante evolução, utilizando Apache NetBeans como ambiente principal de desenvolvimento.
+Este repositório reúne projetos, exercícios práticos e anotações de estudo desenvolvidos como parte da minha jornada de aprendizado na linguagem Java com o **Curso em Vídeo** do professor **Gustavo Guanabra**. Os conteúdos abordam desde a **introdução à linguagem** até conceitos fundamentais de **Programação Orientada a Objetos (POO)**, além de temas visuais como **Swing** e **JavaFX**.
 
 ## 📚 Conteúdo Estudado
 
@@ -49,7 +47,7 @@ Durante os estudos, os seguintes conceitos foram aplicados e exercitados:
 
 ### 🧰 Requisitos:
 - Java JDK instalado
-- Apache Net Beans ou Visual Studio Code com extensões de Java (ex: Extension Pack for Java)
+- ItelliJ, Eclipse ou Apache NetBeans
 - Terminal integrado ou externo
 
 ### 💻 Instruções:
@@ -62,24 +60,12 @@ java Main
 
 ## Objetivo do Repositório
 Este repositório tem fins educacionais e foi criado para:
-* Praticar os fundamentos da linguagem Java
-* Consolidar o aprendizado de POO e lógica
-* Servir como base de consulta futura
-* Compartilhar conhecimento com outros iniciantes
-
-## 🤝 Contribuindo
-Sinta-se à vontade para:
-* Abrir issues com dúvidas ou sugestões
-* Criar pull requests com correções ou melhorias
-* Compartilhar este repositório com colegas que também estão aprendendo Java
+* Praticar os **fundamentos** da linguagem Java
+* **Consolidar** o aprendizado de **POO e lógica**
+* Servir como **base de consulta futura**
 
 ## 📄 Licença
-Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais informações.
-
-📚 Referências
-1. [Documentação oficial do Java](https://docs.oracle.com/en/java/)
-2. Cursos gratuitos e pagos (YouTube, plataformas de ensino)
-3. Comunidade de desenvolvedores iniciantes
+Este projeto está licenciado sob a **MIT License**.
 
 ## 👨‍💻 Sobre o Desenvolvedor
-Olá! Sou estudante de Ciências da Computação em transição de carreira, apaixonado por tecnologia e aprendizado constante. Este repositório reflete minha dedicação em aprender Java e construir uma base sólida para projetos maiores no futuro.
+Sou estudante de **Ciências da Computação** em transição de carreira, apaixonado por **tecnologia** e **aprendizado** constante. Este repositório reflete minha dedicação em aprender Java e construir uma base sólida para projetos maiores no futuro.
