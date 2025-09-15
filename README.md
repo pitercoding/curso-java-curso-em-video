@@ -1,6 +1,6 @@
 # ☕ Repositório de Estudos em Java
 
-Este repositório reúne projetos, exercícios práticos e anotações de estudo desenvolvidos como parte da minha jornada de aprendizado na linguagem Java com o **Curso em Vídeo** do professor **Gustavo Guanabra**. Os conteúdos abordam desde a **introdução à linguagem** até conceitos fundamentais de **Programação Orientada a Objetos (POO)**, além de temas visuais como **Swing** e **JavaFX**.
+Este repositório reúne projetos, exercícios práticos e anotações de estudo desenvolvidos como parte da minha jornada de aprendizado na linguagem Java com o **Curso em Vídeo** do professor **Gustavo Guanabara**. Os conteúdos abordam desde a **introdução à linguagem** até conceitos fundamentais de **Programação Orientada a Objetos (POO)**, além de temas visuais como **Swing** e **JavaFX**.
 
 ## 📚 Conteúdo Estudado
 
@@ -67,5 +67,5 @@ Este repositório tem fins educacionais e foi criado para:
 ## 📄 Licença
 Este projeto está licenciado sob a **MIT License**.
 
-## 👨‍💻 Sobre o Desenvolvedor
+## 👨‍💻 Sobre mim
 Sou estudante de **Ciências da Computação** em transição de carreira, apaixonado por **tecnologia** e **aprendizado** constante. Este repositório reflete minha dedicação em aprender Java e construir uma base sólida para projetos maiores no futuro.
